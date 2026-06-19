@@ -91,6 +91,20 @@ javac -cp ".;mysql-connector-j-9.7.0.jar" *.java
 ```bash
 java -cp ".;mysql-connector-j-9.7.0.jar" Main
 ```
+## Sample Menu
+
+Library Management System
+
+1. Add Book
+2. Remove Book
+3. Search Book
+4. View All Books
+5. Add Member
+6. View All Members
+7. Issue Book
+8. Return Book
+9. Exit
+
 ## What I Learned
 
 - JDBC connectivity with MySQL
