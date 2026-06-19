@@ -91,6 +91,14 @@ javac -cp ".;mysql-connector-j-9.7.0.jar" *.java
 ```bash
 java -cp ".;mysql-connector-j-9.7.0.jar" Main
 ```
+## What I Learned
+
+- JDBC connectivity with MySQL
+- CRUD operations using PreparedStatement and ResultSet
+- Object-Oriented Programming concepts
+- DAO Design Pattern
+- Exception handling and validation
+- Git and GitHub version control
 
 ## Author
 
